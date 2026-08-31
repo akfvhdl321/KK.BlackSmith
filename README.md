@@ -120,17 +120,20 @@
       모험 화면 (발견 · 야영 · 던전)
     </td>
     <td align="center">
-      <img alt="퀘스트 보드" src="./Assets/Docs/Imgs/questBoard.png" width="400" /><br/>
+      <img alt="퀘스트 보드" src="<img width="796" height="597" alt="퀘스트 팝업창" src="https://github.com/user-attachments/assets/0e301f5f-919e-44d8-b111-e64350d8a6e1" />
+" width="400" /><br/>
       퀘스트 보드 팝업
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="환경설정" src="./Assets/Docs/Imgs/settings.png" width="400" /><br/>
+      <img alt="환경설정" src="<img width="541" height="796" alt="설정창" src="https://github.com/user-attachments/assets/58b75370-5ee6-4f56-8c08-efa4220a7ed2" />
+" /><br/>
       환경설정 (단축키 커스터마이징)
     </td>
     <td align="center">
-      <img alt="최소화 화면" src="./Assets/Docs/Imgs/minimized.png" width="400" /><br/><img width="2550" height="464" alt="모험화면" src="https://github.com/user-attachments/assets/240a1436-5efe-46e4-9158-11e28e9cb37f" />
+      <img alt="최소화 화면" src="<img width="542" height="466" alt="최소화 화면" src="https://github.com/user-attachments/assets/40b35dd9-eec5-4dd2-9b9f-c0ba6f1f0b54" />
+" />
 
       최소화 위젯 화면
     </td>
