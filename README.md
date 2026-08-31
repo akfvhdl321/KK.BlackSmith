@@ -183,11 +183,9 @@ Assets/
 
 | 파일 | 설명 | 링크 |
 | --- | --- | --- |
-| `AdventureManager.cs` | 모험 FSM. 시간 기반 진행률 이동, `SyncFromQuestTime` 상태 복원, 위치 기반 이벤트 판정 | [📄 보기](#) |
-| `QuestManager.cs` | 퀘스트 완료 타이밍 통일, `_completedQuest` 보관, `HasCompletedQuest` 폴링, 미수령 시 `StartQuest` 차단 | [📄 보기](#) |
-| `SoundManager.cs` | BGM/SFX 재생·볼륨 중앙 관리 | [📄 보기](#) |
-| `LocalizationManager.cs` | CSV 기반 현지화, 언어별 텍스트 교체 | [📄 보기](#) |
-| `(환경설정 팝업).cs` | 단축키 커스터마이징 · 중복 키 감지/처리 | [📄 보기](#) |
+| `AdventureManager.cs` | 모험 FSM. 시간 기반 진행률 이동, `SyncFromQuestTime` 상태 복원, 위치 기반 이벤트 판정 | [📄 보기](https://github.com/akfvhdl321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/AdventureManager.cs) |
+| `QuestManager.cs` | 퀘스트 완료 타이밍 통일, `_completedQuest` 보관, `HasCompletedQuest` 폴링, 미수령 시 `StartQuest` 차단 | [📄 보기](https://github.com/akfvhdl321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/QuestManager.cs) |
+| `SoundManager.cs` | BGM/SFX 재생·볼륨 중앙 관리 | [📄 보기](https://github.com/akfvhdl321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/SoundManager.cs) |
 
 ---
 
