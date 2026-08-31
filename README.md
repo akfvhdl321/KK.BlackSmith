@@ -6,9 +6,7 @@
      실제 소스 파일과 반드시 대조 검증하세요. (설계 문서 ≠ 실제 코드)
 ============================================================ -->
 
-<p align="center">
-  <img alt="게임 대표 이미지" src="./Assets/Docs/Imgs/readmeTitle.png" width="640" />
-</p>
+
 
 ## 깡깡대장간 : Kkangkkang Blacksmith ⚒️  <!-- ⚠️ 영문 표기명 확인 -->
 
@@ -183,7 +181,7 @@ Assets/
 
 | 파일 | 설명 | 링크 |
 | --- | --- | --- |
-| `AdventureManager.cs` | 모험 FSM. 시간 기반 진행률 이동, `SyncFromQuestTime` 상태 복원, 위치 기반 이벤트 판정 | [보기 📄]([https://github.com/akfvhd1321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/AdventureManager.cs] |
+| `AdventureManager.cs` | 모험 FSM. 시간 기반 진행률 이동, `SyncFromQuestTime` 상태 복원, 위치 기반 이벤트 판정 | [보기 📄](https://github.com/akfvhd1321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/AdventureManager.cs) |
 | `QuestManager.cs` | 퀘스트 완료 타이밍 통일, `_completedQuest` 보관, `HasCompletedQuest` 폴링, 미수령 시 `StartQuest` 차단 | [보기 📄](https://github.com/akfvhdl321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/QuestManager.cs) |
 | `SoundManager.cs` | BGM/SFX 재생·볼륨 중앙 관리 | [보기 📄](https://github.com/akfvhdl321/KK.BlackSmith/blob/develop/Assets/CWT/CWT_Scripts/Manager/SoundManager.cs) |
 ---
