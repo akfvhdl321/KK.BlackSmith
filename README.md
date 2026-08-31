@@ -96,10 +96,6 @@
 
 - BGM / SFX 재생·볼륨 제어를 중앙에서 담당하는 사운드 허브를 구현했습니다.  <!-- ⚠️ 실제 기능 범위로 보완 -->
 
-#### 🌐 현지화 시스템  `LocalizationManager`  <!-- ⚠️ 실제 클래스명 확인 -->
-
-- **CSV 기반 현지화**로, 키-값 테이블을 로드해 UI 텍스트를 언어별로 교체합니다.
-
 #### ⚙️ 환경설정 팝업
 
 - **단축키 커스터마이징** 기능을 구현하고, **중복 키 입력을 감지·처리**해 같은 키가 여러 기능에 배정되는 충돌을 방지했습니다.
@@ -119,7 +115,8 @@
 <table>
   <tr>
     <td align="center">
-      <img alt="모험 화면" src="./Assets/Docs/Imgs/adventure.png" width="400" /><br/>
+      <img alt="모험 화면" src="<img width="2550" height="464" alt="모험화면" src="https://github.com/user-attachments/assets/df50e66c-ab41-437b-9a26-16640922e257" />
+" width="400" /><br/>
       모험 화면 (발견 · 야영 · 던전)
     </td>
     <td align="center">
@@ -133,7 +130,8 @@
       환경설정 (단축키 커스터마이징)
     </td>
     <td align="center">
-      <img alt="최소화 화면" src="./Assets/Docs/Imgs/minimized.png" width="400" /><br/>
+      <img alt="최소화 화면" src="./Assets/Docs/Imgs/minimized.png" width="400" /><br/><img width="2550" height="464" alt="모험화면" src="https://github.com/user-attachments/assets/240a1436-5efe-46e4-9158-11e28e9cb37f" />
+
       최소화 위젯 화면
     </td>
   </tr>
