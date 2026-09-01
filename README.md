@@ -143,14 +143,14 @@
 Assets/
 ├─ Docs/            → 기획 · 설계 문서
 ├─ Scripts/
-│  ├─ Adventure/    → AdventureManager (FSM · 시간 기반 이동 · 상태 복원)   ← 담당
-│  ├─ Quest/        → QuestManager · 퀘스트 보드 UI                        ← 담당
-│  ├─ Sound/        → SoundManager                                         ← 담당
-│  ├─ Localization/ → LocalizationManager (CSV)                            ← 담당
-│  ├─ Settings/     → 환경설정 팝업 (단축키 커스터마이징)                   ← 담당
-│  ├─ Dungeon/      → 던전 배경 시스템                                      ← 담당
-│  ├─ Popup/        → PopupManager · 화면 전환 · 보상/자루 팝업            (팀장)
-│  └─ Smithy/       → 대장간 · 장비 제작 시스템                            (팀원)
+│  ├─ Adventure/    → AdventureManager (FSM · 시간 기반 이동 · 상태 복원)   
+│  ├─ Quest/        → QuestManager · 퀘스트 보드 UI                        
+│  ├─ Sound/        → SoundManager                                         
+│  ├─ Localization/ → LocalizationManager (CSV)                            
+│  ├─ Settings/     → 환경설정 팝업 (단축키 커스터마이징)                   
+│  ├─ Dungeon/      → 던전 배경 시스템                                      
+│  ├─ Popup/        → PopupManager · 화면 전환 · 보상/자루 팝업            
+│  └─ Smithy/       → 대장간 · 장비 제작 시스템                            
 ├─ Resources/       → CSV (던전 · 현지화), 아이콘 리소스
 └─ Plugins/         → UniWindowController
 ```
